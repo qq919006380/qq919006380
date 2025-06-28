@@ -3,10 +3,7 @@
 <!-- 动态标题 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+BitSun+W;Quantum+Mechanics+Engineer;Full+Stack+Developer;Time-Space+Travel+Engineer" alt="Typing SVG" />
 
-<!-- 个人介绍横幅 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
-
-</div>
+ 
 
 <!-- 关于我的部分 -->
 <div align="left">
@@ -32,8 +29,20 @@ const BitSunW = {
   
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qq919006380&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=prs,contribs"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq919006380&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/qq919006380">
+        <img src="https://github-readme-stats.vercel.app/api?username=qq919006380&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=prs,contribs" alt="GitHub Stats" width="100%"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/qq919006380">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq919006380&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -62,16 +71,5 @@ const BitSunW = {
 ## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=qq919006380&bg_color=1a1b27&color=628fdb&line=d1a01f&point=c58545&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-
-</div>
-
-<!-- 底部波浪 -->
-<div align="center">
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
----
-
- 
 
 </div>
