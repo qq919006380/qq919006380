@@ -17,7 +17,7 @@ const BitSunW = {
     location: "🌍 Earth (currently)",
     currentFocus: "Building the future with code",
     hobbies: ["🔬 Quantum Computing", "🚀 Space Technology", "💻 Full Stack Development"],
-    askMeAbout: ["React", "Node.js", "TypeScript", "Next.js", "AI/ML"],
+    askMeAbout: ["React", "Node.js", "TypeScript", "Next.js", "AI/WEB3"],
     funFact: "I debug code by traveling through time dimensions 🕐"
 };
 ```
