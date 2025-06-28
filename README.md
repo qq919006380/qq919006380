@@ -29,20 +29,14 @@ const BitSunW = {
   
 ## 📊 GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/qq919006380">
-        <img src="https://github-readme-stats.vercel.app/api?username=qq919006380&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=prs,contribs" alt="GitHub Stats" width="100%"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/qq919006380">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq919006380&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/qq919006380">
+    <img src="https://github-readme-stats.vercel.app/api?username=qq919006380&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=prs,contribs" alt="GitHub Stats" height="165"/>
+  </a>
+  <a href="https://github.com/qq919006380">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq919006380&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  </a>
+</p>
 
 </div>
 
