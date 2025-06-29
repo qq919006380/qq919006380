@@ -26,9 +26,6 @@ const BitSunW = {
 
 <!-- GitHub 统计信息 -->
 <div align="center">
-  
-## 📊 GitHub Analytics
-
 <p align="center">
   <a href="https://github.com/qq919006380">
     <img src="https://github-readme-stats.vercel.app/api?username=qq919006380&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=prs,contribs" alt="GitHub Stats" height="165"/>
@@ -42,8 +39,6 @@ const BitSunW = {
 
 <!-- 活动图表 -->
 <div align="center">
-
-## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=qq919006380&bg_color=1a1b27&color=628fdb&line=d1a01f&point=c58545&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
