@@ -40,6 +40,15 @@ const BitSunW = {
 
 </div>
 
+<!-- 活动图表 -->
+<div align="center">
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qq919006380&bg_color=1a1b27&color=628fdb&line=d1a01f&point=c58545&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
 <!-- 技术栈 -->
 <div align="center">
 
@@ -59,11 +68,4 @@ const BitSunW = {
 
 </div>
 
-<!-- 活动图表 -->
-<div align="center">
 
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qq919006380&bg_color=1a1b27&color=628fdb&line=d1a01f&point=c58545&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-
-</div>
