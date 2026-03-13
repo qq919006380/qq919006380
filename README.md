@@ -69,13 +69,13 @@ const BitSunW = {
   <td width="50%">
                                                                                                  
   ### 🤖 AskJoey
-  AI-powered dating profile generator that helps you craft the perfect bio.
+  <img src="https://askjoey.io/logo.png" width="18" /> AI-powered dating profile generator that helps you craft the perfect bio.
   [![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel)](https://askjoey.io)                                                     
   
   </td>                                                                                          
   <td width="50%">                                                
 
-  ### 🔗 charactergen                                                                              
+  ### <img src="https://charactergen.app/logo.png" width="18" /> charactergen                                                                              
   AI Character Generator - Create Complete Character Designs                                                                                      
   [![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel)](https://charactergen.app)                                                                                     
   
