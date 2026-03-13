@@ -68,8 +68,8 @@ const BitSunW = {
   <tr>
   <td width="50%">
                                                                                                  
-  ### 🤖 AskJoey
-  <img src="https://askjoey.io/logo.png" width="18" /> AI-powered dating profile generator that helps you craft the perfect bio.
+  ### <img src="https://askjoey.io/logo.png" width="18" /> AskJoey
+  AI-powered dating profile generator that helps you craft the perfect bio.
   [![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel)](https://askjoey.io)                                                     
   
   </td>                                                                                          
