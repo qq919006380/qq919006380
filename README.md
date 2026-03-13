@@ -62,40 +62,40 @@ const BitSunW = {
 </div>
 
 
-## 🚀 Featured Projects                                                                        
-                                                                                                 
-  <table>                                                         
+## 🚀 Featured Projects
+
+<table>
   <tr>
-  <td width="50%">
-                                                                                                 
-  ### <img src="https://askjoey.io/logo.png" width="28" /> AskJoey
-  AI-powered dating profile generator that helps you craft the perfect bio.
-  [![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel)](https://askjoey.io)                                                     
-  
-  </td>                                                                                          
-  <td width="50%">                                                
-
-  ### <img src="https://charactergen.app/logo.png" width="28" /> charactergen                                                                              
-  AI Character Generator - Create Complete Character Designs                                                                                      
-  [![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel)](https://charactergen.app)                                                                                     
-  
-  </td>                                                                                          
-  </tr>                                                           
-  <tr>
-  <td width="50%">
-
-  ### <img src="https://bucici.com/logo.png" width="28" /> Bucici
-  Daily lucky number generator based on zodiac signs and numerology algorithms.
-  [![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel)](https://bucici.com)
-
-  </td>
-  <td width="50%">
-
-  ### <img src="https://icebreakergames.club/logo.png" width="28" /> Ice Breaker Games
-  Free ice breaker games and team-building activities for meetings, classrooms and events.
-  [![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel)](https://icebreakergames.club)
-
-  </td>
+    <td width="50%">
+      <h3><img src="https://askjoey.io/logo.png" width="28" /> AskJoey</h3>
+      <p>AI-powered dating profile generator that helps you craft the perfect bio.</p>
+      <a href="https://askjoey.io">
+        <img src="https://img.shields.io/badge/Visit-Website-6366F1?style=flat-square&logo=safari&logoColor=white" alt="Website" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3><img src="https://charactergen.app/logo.png" width="28" /> CharacterGen</h3>
+      <p>AI Character Generator - Create Complete Character Designs.</p>
+      <a href="https://charactergen.app">
+        <img src="https://img.shields.io/badge/Visit-Website-6366F1?style=flat-square&logo=safari&logoColor=white" alt="Website" />
+      </a>
+    </td>
   </tr>
-  </table>
+  <tr>
+    <td width="50%">
+      <h3><img src="https://bucici.com/logo.png" width="28" /> Bucici</h3>
+      <p>Daily lucky number generator based on zodiac signs and numerology algorithms.</p>
+      <a href="https://bucici.com">
+        <img src="https://img.shields.io/badge/Visit-Website-6366F1?style=flat-square&logo=safari&logoColor=white" alt="Website" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3><img src="https://icebreakergames.club/logo.png" width="28" /> Ice Breaker Games</h3>
+      <p>Free ice breaker games and team-building activities for meetings, classrooms and events.</p>
+      <a href="https://icebreakergames.club">
+        <img src="https://img.shields.io/badge/Visit-Website-6366F1?style=flat-square&logo=safari&logoColor=white" alt="Website" />
+      </a>
+    </td>
+  </tr>
+</table>
 
