@@ -62,3 +62,25 @@ const BitSunW = {
 </div>
 
 
+## 🚀 Featured Projects                                                                        
+                                                                                                 
+  <table>                                                         
+  <tr>
+  <td width="50%">
+                                                                                                 
+  ### 🤖 AskJoey
+  AI-powered dating profile generator that helps you craft the perfect bio.
+  [![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel)](https://askjoey.io)                                                     
+  
+  </td>                                                                                          
+  <td width="50%">                                                
+
+  ### 🔗 charactergen                                                                              
+  AI Character Generator - Create Complete Character Designs                                                                                      
+  [![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel)](https://charactergen.app)                                                                                     
+  
+  </td>                                                                                          
+  </tr>                                                           
+  <tr>
+  <td width="50%">
+
