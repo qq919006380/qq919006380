@@ -99,7 +99,7 @@ const BitSunW = {
   </tr>
   <tr>
     <td width="50%">
-      <h3><img src="https://nftgen.cn/logo.png" width="28" /> NFT Generator</h3>
+      <h3><img src="https://nftgen.cn/assets/3.c36d0c95.png" width="28" /> NFT Generator</h3>
       <p>No-code online NFT generator that automatically creates thousands of unique artwork combinations from layered assets.</p>
       <a href="https://nftgen.cn">
         <img src="https://img.shields.io/badge/Visit-Website-6366F1?style=flat-square&logo=safari&logoColor=white" alt="Website" />
