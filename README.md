@@ -25,17 +25,10 @@ const BitSunW = {
 </div>
 
 <!-- GitHub 统计信息 -->
-<div align="center">
- <p align="center">
-   <a href="https://github.com/qq919006380">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qq919006380&theme=github" alt="GitHub Profile Summary" height="165"/>
-   </a>
-   <a href="https://github.com/qq919006380">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qq919006380&theme=github" alt="Top Languages" height="165"/>
-   </a>
- </p>
-
-</div>
+<table align="center"><tr>
+<td><a href="https://github.com/qq919006380"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qq919006380&theme=github" alt="GitHub Profile Summary" height="165"/></a></td>
+<td><a href="https://github.com/qq919006380"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qq919006380&theme=github" alt="Top Languages" height="165"/></a></td>
+</tr></table>
 
 <!-- 活动图表 -->
 <div align="center">
