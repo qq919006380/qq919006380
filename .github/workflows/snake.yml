@@ -22,7 +22,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23fb923c&color_dots=%23161b22,%233a1f0a,%237c2d12,%23c2410c,%23fb923c
 
       - name: Strip progress bar
-        run: sed -i -E 's|<rect class="u u[^"]*"[^/]*/>||g' dist/*.svg
+        run: sudo sed -i -E 's|<rect class="u u[^"]*"[^/]*/>||g' dist/*.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
