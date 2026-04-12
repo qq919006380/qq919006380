@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github-readme-stats.vercel.app)",
+      "WebFetch(domain:github-profile-trophy.vercel.app)",
+      "WebFetch(domain:github-readme-activity-graph.vercel.app)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "Bash(curl -sI \"https://raw.githubusercontent.com/qq919006380/qq919006380/output/github-contribution-grid-snake.svg\")",
+      "Bash(curl -sI \"https://streak-stats.demolab.com?user=qq919006380\")",
+      "Bash(curl -sI \"https://github-readme-stats.vercel.app/api?username=qq919006380\")",
+      "Bash(curl -sI \"https://github.com/Platane/snk\")"
+    ]
+  }
+}

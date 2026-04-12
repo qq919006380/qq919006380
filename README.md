@@ -26,21 +26,24 @@ const BitSunW = {
 
 <!-- GitHub 统计信息 -->
 <div align="center">
-<p align="center">
-  <a href="https://github.com/qq919006380">
-    <img src="https://github-readme-stats.vercel.app/api?username=qq919006380&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=prs,contribs" alt="GitHub Stats" height="165"/>
-  </a>
-  <a href="https://github.com/qq919006380">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq919006380&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" height="165"/>
-  </a>
-</p>
+ <p align="center">
+   <a href="https://github.com/qq919006380">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qq919006380&theme=github" alt="GitHub Profile Summary" height="165"/>
+   </a>
+   <a href="https://github.com/qq919006380">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qq919006380&theme=github" alt="Top Languages" height="165"/>
+   </a>
+ </p>
 
 </div>
 
 <!-- 活动图表 -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qq919006380&bg_color=fff&color=628fdb&line=d1a01f&point=c58545&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qq919006380/qq919006380/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/qq919006380/qq919006380/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
