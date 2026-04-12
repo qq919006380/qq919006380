@@ -106,7 +106,11 @@ const BitSunW = {
       </a>
     </td>
     <td width="50%">
+      <h3><img src="https://ailogogenerator.online/logo.png" width="28" /> AI Logo Generator</h3>
+      <p>AI-powered logo design tool that creates professional logos in 30 seconds.</p>
+      <a href="https://ailogogenerator.online/">
+        <img src="https://img.shields.io/badge/Visit-Website-6366F1?style=flat-square&logo=safari&logoColor=white" alt="Website" />
+      </a>
     </td>
   </tr>
 </table>
-
