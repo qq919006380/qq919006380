@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 动态标题 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+BitSun+W;Quantum+Mechanics+Engineer;Full+Stack+Developer;Time-Space+Travel+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+BitSun+W;AI+Native+Engineer;Indie+Hacker;Full-Stack+Builder" alt="Typing SVG" />
 
  
 
@@ -13,12 +13,12 @@
 ```typescript
 const BitSunW = {
     name: "BitSun W",
-    role: "Quantum Mechanics Time-Space Travel Engineer",
+    role: "AI Native Engineer & Indie Hacker",
     location: "🌍 Earth (currently)",
     currentFocus: "Building the future with code",
-    hobbies: ["🔬 Quantum Computing", "🚀 Space Technology", "💻 Full Stack Development"],
-    askMeAbout: ["React", "Node.js", "TypeScript", "Next.js", "AI/WEB3"],
-    funFact: "I debug code by traveling through time dimensions 🕐"
+    hobbies: ["🤖 AI Native", "🏛️ Architect", "💻 Full Stack Development"],
+    askMeAbout: ["Indie Hacking", "Growth & SEO", "Data Analysis", "AI Native Apps", "Full Stack"],
+    motto: "A product manager who doesn't understand design isn't a good architect"
 };
 ```
 
