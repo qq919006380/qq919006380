@@ -18,7 +18,7 @@ const BitSunW = {
     currentFocus: "Building the future with code",
     hobbies: ["🤖 AI Native", "🏛️ Architect", "💻 Full Stack Development"],
     askMeAbout: ["Indie Hacking", "Growth & SEO", "Data Analysis", "AI Native Apps", "Full Stack"],
-    motto: "A product manager who doesn't understand design isn't a good architect"
+    motto: "A PM who doesn't get design will never be a great architect"
 };
 ```
 
