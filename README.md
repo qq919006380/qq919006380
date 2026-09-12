@@ -103,9 +103,9 @@ const BitSunW = {
       </a>
     </td>
     <td width="50%">
-      <h3><img src="https://askjoey.io/logo.png" width="28" /> AskJoey</h3>
-      <p>AI-powered dating profile generator that helps you craft the perfect bio.</p>
-      <a href="https://askjoey.io">
+      <h3><img src="https://spritegen.ai/logo.png" width="28" /> SpriteGen</h3>
+      <p>Free AI sprite creator that turns a text prompt into a game-ready pixel-art sprite sheet.</p>
+      <a href="https://spritegen.ai/">
         <img src="https://img.shields.io/badge/Visit-Website-6366F1?style=flat-square&logo=safari&logoColor=white" alt="Website" />
       </a>
     </td>
