@@ -64,6 +64,22 @@ const BitSunW = {
 <table>
   <tr>
     <td width="50%">
+      <h3><img src="https://hoparcade.com/brand/apple-touch-icon.png" width="28" /> HopArcade</h3>
+      <p>Free online browser games like Snow Rider 3D — no download, just hop in and play.</p>
+      <a href="https://hoparcade.com">
+        <img src="https://img.shields.io/badge/Visit-Website-6366F1?style=flat-square&logo=safari&logoColor=white" alt="Website" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3><img src="https://invoiceize.com/logo.png" width="28" /> Invoiceize</h3>
+      <p>Free invoice generator with live preview and PDF download. No signup, no watermark.</p>
+      <a href="https://invoiceize.com">
+        <img src="https://img.shields.io/badge/Visit-Website-6366F1?style=flat-square&logo=safari&logoColor=white" alt="Website" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3><img src="https://ailogogenerator.online/logo.png" width="28" /> AI Logo Generator</h3>
       <p>AI-powered logo design tool that creates professional logos in 30 seconds.</p>
       <a href="https://ailogogenerator.online/">
